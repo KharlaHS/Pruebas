@@ -1,0 +1,9 @@
+.card {
+    text-align: center;
+}
+.card-img-top {
+    height: 250px;
+    width: 250px;
+    object-fit: cover;
+    text-align: center;
+    }
